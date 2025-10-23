@@ -62,6 +62,11 @@ To develop an LSTM-based model for recognizing the named entities in the text.
 
 ## **PROGRAM**
 
+
+**Name:** HANIEL REENA D R
+
+**Register Number:** 2305001008
+
 ```python
 
 import matplotlib.pyplot as plt, pandas as pd, numpy as np
@@ -117,10 +122,6 @@ for w,t,pd_ in zip(Xte[i], yte[i], p):
 
 
 ````
-
-**Name:** HANIEL REENA D R
-
-**Register Number:** 2305001008
 
 
 
