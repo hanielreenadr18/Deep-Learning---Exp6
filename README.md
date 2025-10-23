@@ -10,7 +10,7 @@ To develop an LSTM-based model for recognizing the named entities in the text.
 
 **Neural Network Model**
 
-<img width="890" height="471" alt="image" src="https://github.com/user-attachments/assets/f1561c2b-7b24-4cc6-950b-53f4ed3b1977" />
+<img width="500" height="471" alt="image" src="https://github.com/user-attachments/assets/f1561c2b-7b24-4cc6-950b-53f4ed3b1977" />
 
 ## **DESIGN STEPS**
 
@@ -136,7 +136,7 @@ for w,t,pd_ in zip(Xte[i], yte[i], p):
 
 ## SAMPLE TEXT PREDICTION:
 
-<img width="319" height="1065" alt="image" src="https://github.com/user-attachments/assets/68785715-2788-4751-ab71-0523146b484d" />
+<img width="319" height="700" alt="image" src="https://github.com/user-attachments/assets/68785715-2788-4751-ab71-0523146b484d" />
 
 
 ## **RESULT**
